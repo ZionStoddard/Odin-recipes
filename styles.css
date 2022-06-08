@@ -15,8 +15,31 @@
 }
 
 .bpic{
-    height: 5px;
+    height: 500px;
     width:auto;
+    text-align: center;
 }
 
-.bt{background-color: aquamarine;}
+.bap{background-color: orange;
+text-align: center;}
+
+.ing{
+    text-align: center;
+    background-color: aquamarine; 
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+.link{
+    color: darkcyan;
+    text-align: center;
+    font-size: larger;
+}
+
+.step{
+    background-color: rgb(252, 107, 107);
+    text-align: center;
+}
+.stps {
+    text-align: justify;
+    background-color: palegoldenrod;
+
+}
