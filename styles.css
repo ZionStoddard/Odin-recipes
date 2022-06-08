@@ -1,0 +1,22 @@
+
+
+.b {
+    text-align: center;
+    margin-bottom: 0%;
+    background-color: red;
+}
+.po{
+    text-align: center;
+    background-color: blue;
+}
+.pa {
+    text-align: center;
+    background-color: yellow;
+}
+
+.bpic{
+    height: 5px;
+    width:auto;
+}
+
+.bt{background-color: aquamarine;}
